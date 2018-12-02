@@ -1,0 +1,97 @@
+.first_box
+{
+	/*margin: auto;*/
+	border:1px solid gray;
+	box-shadow: 2px 2px;
+	padding:30px;
+}
+.log_box
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:auto;
+	border:1px solid gray;
+	box-shadow: 2px 2px;
+	padding:5px;
+}
+.sig_box
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:auto;
+	border:1px solid gray;
+	box-shadow: 2px 2px;
+	padding:5px;
+}
+.message_holder
+{
+	padding-top:10px;
+}
+td
+{
+	padding:10px;
+}
+.links
+{
+	padding-top:10px;
+}
+.links > div > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.suggestion-box
+{
+	position: absolute;
+	z-index: 1000;
+	display: none;
+	float: left;
+	min-width: 160px;
+	margin: 2px 0 0;
+	padding-top:5px;
+	font-size: 14px;
+	text-align: left;
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+}
+.suggestion-box ul
+{
+	padding:0px;
+	padding-left:8%;
+}
+.suggestion-box li
+{
+	list-style-type: none;
+	line-height: 30px;
+}
+.navh
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:auto;
+}
+#search_form, #insert_form
+{
+	max-width:300px;
+}
+#table-holder
+{
+	padding-bottom:100px;
+}
+.user_n
+{
+	float:right;
+	padding-right:5%;
+}
+#chartContainer
+{
+	height:300px;
+	width: 90%;
+	max-width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:20px;
+}
